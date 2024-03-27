@@ -6,9 +6,11 @@
 <br>
 ## Estágio Ribeirão Preto - 2024
 <br>
-Este teste se referente a vaga de estágio Ribeirão Preto - 2024 na TargetSistemas e contem 5 perguntas que foram respondidas em formato de sistema.
+- Teste referente a vaga de estágio Ribeirão Preto - 2024 na Target Sistemas; 
 <br>
-Nesta solução temos 5 sistemas que corresponde as perguntas do teste, basta executar cada sistema e as respostas serão apresentadas.
+- Este teste contem 5 perguntas que foram respondidas em formato de sistema;
+<br>
+- Para esta solução basta executar cada sistema que as respostas do teste serão respondidas e apresentadas e tela.
 <br>
 
 ## SOFTWARE UTILIZADOS 
