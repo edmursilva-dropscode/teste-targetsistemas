@@ -6,11 +6,9 @@
 <br>
 <br>
 
-
 ## SOFTWARE UTILIZADOS 
 - Visual Studio 2022
 - Linguagem C# console
-
 
 ## ESTÁGIO RIBEIRÃO PRETO - 2024
 <br>
