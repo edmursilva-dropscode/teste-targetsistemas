@@ -5,6 +5,13 @@
 </h1>
 <br>
 <br>
+
+
+## SOFTWARE UTILIZADOS 
+- Visual Studio 2022
+- Linguagem C# console
+
+
 ## ESTÁGIO RIBEIRÃO PRETO - 2024
 <br>
 - Teste referente a vaga de estágio Ribeirão Preto - 2024 na Target Sistemas; 
@@ -13,7 +20,3 @@
 <br>
 - Para esta solução basta executar cada sistema que as respostas do teste serão respondidas e apresentadas e tela.
 <br>
-
-## SOFTWARE UTILIZADOS 
-- Visual Studio 2022
-- Linguagem C# console
