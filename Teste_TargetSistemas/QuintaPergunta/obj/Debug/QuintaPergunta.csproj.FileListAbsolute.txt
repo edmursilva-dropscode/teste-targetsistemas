@@ -1,0 +1,14 @@
+C:\Teste_TargetSistemas\PrimeiraPergunta\QuintaPergunta\obj\Debug\QuintaPergunta.csproj.AssemblyReference.cache
+C:\Teste_TargetSistemas\PrimeiraPergunta\QuintaPergunta\obj\Debug\QuintaPergunta.csproj.CoreCompileInputs.cache
+C:\Teste_TargetSistemas\PrimeiraPergunta\QuintaPergunta\bin\Debug\QuintaPergunta.exe.config
+C:\Teste_TargetSistemas\PrimeiraPergunta\QuintaPergunta\bin\Debug\QuintaPergunta.exe
+C:\Teste_TargetSistemas\PrimeiraPergunta\QuintaPergunta\bin\Debug\QuintaPergunta.pdb
+C:\Teste_TargetSistemas\PrimeiraPergunta\QuintaPergunta\obj\Debug\QuintaPergunta.exe
+C:\Teste_TargetSistemas\PrimeiraPergunta\QuintaPergunta\obj\Debug\QuintaPergunta.pdb
+C:\Teste_TargetSistemas\Teste_TargetSistemas\QuintaPergunta\bin\Debug\QuintaPergunta.exe.config
+C:\Teste_TargetSistemas\Teste_TargetSistemas\QuintaPergunta\bin\Debug\QuintaPergunta.exe
+C:\Teste_TargetSistemas\Teste_TargetSistemas\QuintaPergunta\bin\Debug\QuintaPergunta.pdb
+C:\Teste_TargetSistemas\Teste_TargetSistemas\QuintaPergunta\obj\Debug\QuintaPergunta.csproj.AssemblyReference.cache
+C:\Teste_TargetSistemas\Teste_TargetSistemas\QuintaPergunta\obj\Debug\QuintaPergunta.csproj.CoreCompileInputs.cache
+C:\Teste_TargetSistemas\Teste_TargetSistemas\QuintaPergunta\obj\Debug\QuintaPergunta.exe
+C:\Teste_TargetSistemas\Teste_TargetSistemas\QuintaPergunta\obj\Debug\QuintaPergunta.pdb

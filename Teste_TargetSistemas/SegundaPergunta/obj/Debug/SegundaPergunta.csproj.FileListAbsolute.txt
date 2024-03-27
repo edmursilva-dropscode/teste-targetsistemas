@@ -1,0 +1,14 @@
+C:\Teste_TargetSistemas\PrimeiraPergunta\SegundaPergunta\bin\Debug\SegundaPergunta.exe.config
+C:\Teste_TargetSistemas\PrimeiraPergunta\SegundaPergunta\bin\Debug\SegundaPergunta.exe
+C:\Teste_TargetSistemas\PrimeiraPergunta\SegundaPergunta\bin\Debug\SegundaPergunta.pdb
+C:\Teste_TargetSistemas\PrimeiraPergunta\SegundaPergunta\obj\Debug\SegundaPergunta.csproj.AssemblyReference.cache
+C:\Teste_TargetSistemas\PrimeiraPergunta\SegundaPergunta\obj\Debug\SegundaPergunta.csproj.CoreCompileInputs.cache
+C:\Teste_TargetSistemas\PrimeiraPergunta\SegundaPergunta\obj\Debug\SegundaPergunta.exe
+C:\Teste_TargetSistemas\PrimeiraPergunta\SegundaPergunta\obj\Debug\SegundaPergunta.pdb
+C:\Teste_TargetSistemas\Teste_TargetSistemas\SegundaPergunta\bin\Debug\SegundaPergunta.exe.config
+C:\Teste_TargetSistemas\Teste_TargetSistemas\SegundaPergunta\bin\Debug\SegundaPergunta.exe
+C:\Teste_TargetSistemas\Teste_TargetSistemas\SegundaPergunta\bin\Debug\SegundaPergunta.pdb
+C:\Teste_TargetSistemas\Teste_TargetSistemas\SegundaPergunta\obj\Debug\SegundaPergunta.csproj.AssemblyReference.cache
+C:\Teste_TargetSistemas\Teste_TargetSistemas\SegundaPergunta\obj\Debug\SegundaPergunta.csproj.CoreCompileInputs.cache
+C:\Teste_TargetSistemas\Teste_TargetSistemas\SegundaPergunta\obj\Debug\SegundaPergunta.exe
+C:\Teste_TargetSistemas\Teste_TargetSistemas\SegundaPergunta\obj\Debug\SegundaPergunta.pdb

@@ -1,0 +1,14 @@
+C:\Teste_TargetSistemas\PrimeiraPergunta\TerceiraPergunta\bin\Debug\TerceiraPergunta.exe.config
+C:\Teste_TargetSistemas\PrimeiraPergunta\TerceiraPergunta\bin\Debug\TerceiraPergunta.exe
+C:\Teste_TargetSistemas\PrimeiraPergunta\TerceiraPergunta\bin\Debug\TerceiraPergunta.pdb
+C:\Teste_TargetSistemas\PrimeiraPergunta\TerceiraPergunta\obj\Debug\TerceiraPergunta.csproj.AssemblyReference.cache
+C:\Teste_TargetSistemas\PrimeiraPergunta\TerceiraPergunta\obj\Debug\TerceiraPergunta.csproj.CoreCompileInputs.cache
+C:\Teste_TargetSistemas\PrimeiraPergunta\TerceiraPergunta\obj\Debug\TerceiraPergunta.exe
+C:\Teste_TargetSistemas\PrimeiraPergunta\TerceiraPergunta\obj\Debug\TerceiraPergunta.pdb
+C:\Teste_TargetSistemas\Teste_TargetSistemas\TerceiraPergunta\bin\Debug\TerceiraPergunta.exe.config
+C:\Teste_TargetSistemas\Teste_TargetSistemas\TerceiraPergunta\bin\Debug\TerceiraPergunta.exe
+C:\Teste_TargetSistemas\Teste_TargetSistemas\TerceiraPergunta\bin\Debug\TerceiraPergunta.pdb
+C:\Teste_TargetSistemas\Teste_TargetSistemas\TerceiraPergunta\obj\Debug\TerceiraPergunta.csproj.AssemblyReference.cache
+C:\Teste_TargetSistemas\Teste_TargetSistemas\TerceiraPergunta\obj\Debug\TerceiraPergunta.csproj.CoreCompileInputs.cache
+C:\Teste_TargetSistemas\Teste_TargetSistemas\TerceiraPergunta\obj\Debug\TerceiraPergunta.exe
+C:\Teste_TargetSistemas\Teste_TargetSistemas\TerceiraPergunta\obj\Debug\TerceiraPergunta.pdb
